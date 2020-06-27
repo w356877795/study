@@ -1,5 +1,5 @@
 #include "stdio.h"
 void main(void)
 {
-	printf("user2");
+	printf("master");
 }
