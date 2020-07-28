@@ -9,3 +9,8 @@ void test2_fun(void)
 {
 	printf("test2_fun");
 }
+
+void test3_fun(void)
+{
+	printf("test3_fun");
+}
