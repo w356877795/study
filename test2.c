@@ -1,1 +1,6 @@
-// bug fix and add test2.c
+/*wwx test*/
+#include "stdio.h"
+void wwx_fun(void)
+{
+	printf("wwx_fun");	
+}
