@@ -5,12 +5,4 @@ void test1_fun(void)
 	printf("test1_fun");
 }
 
-void test2_fun(void)
-{
-	printf("test2_fun");
-}
 
-void test3_fun(void)
-{
-	printf("test3_fun");
-}

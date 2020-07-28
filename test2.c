@@ -9,3 +9,8 @@ void wxq_fun(void)
 {
 	printf("wxq fun is ok");
 }
+
+void wxq3_fun(void)
+{
+	printf("wxq fun is ok");
+}
