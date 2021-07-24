@@ -2,7 +2,7 @@
 #include "stdio.h"
 void test1_fun(void)
 {
-	printf("test1_fun");
+	printf("test1_funffdgffd");
 }
 
 
