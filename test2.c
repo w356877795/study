@@ -12,5 +12,5 @@ void wxq_fun(void)
 
 void wxq3_fun(void)
 {
-	printf("wxq fun is ok 20210724");
+	printf("wxq fun is ok 20210724 dssdadsad");
 }
